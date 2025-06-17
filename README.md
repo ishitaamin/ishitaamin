@@ -65,7 +65,7 @@
 
 - ✉️ University Email: [ishita.r.amin@nuv.ac.in](mailto:ishita.r.amin@nuv.ac.in)  
 - 📬 Personal Email: [aminishita30@gmail.com](mailto:aminishita30@gmail.com)  
-- 🔗 LinkedIn: [linkedin.com/in/ishitaamin](https://linkedin.com/in/ishitaamin)  
+- 🔗 LinkedIn: [linkedin.com/in/ishitaamin](https://linkedin.com/in/ishita-amin-841726253)  
 - 📸 Instagram: [@ishita.amin_](https://instagram.com/_.ixhita.__/_)  
 
 ---
