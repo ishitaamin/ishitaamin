@@ -38,16 +38,16 @@
 
 ### 📌 Featured Projects
 
-- 🛍️ **[Nova – Jewellery E-Commerce](#)**  
+- 🛍️ **[Nova – Jewellery E-Commerce](https://github.com/ishitaamin/nova-jewellrey-ecommerce)**  
   React.js-based product site with wishlist, dynamic routes, and a beautiful UI.
 
 - 🌍 **[VOYA – Travel Smart](#)**  
   Android app with Firebase & Google Maps API to manage group travel, documents & expenses.
 
-- 🍕 **[PizzaSalesIQ – Big Data Inventory Forecasting](#)**  
+- 🍕 **[PizzaSalesIQ – Big Data Inventory Forecasting](https://github.com/ishitaamin/pizzaIQ-sales)**  
   Real-time sales forecasting using AWS Athena, Streamlit, and Exponential Smoothing.
 
-- 🌐 **[HariDevelopers.in (Freelance)](https://haridevelopers.in/)**  
+- 🌐 **[HariDevelopers.in (Freelance)](https://github.com/ishitaamin/haridevelopers)**  
   Business portfolio site built using HTML, CSS, JS & Bootstrap – live & client approved.
 
 ---
