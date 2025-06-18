@@ -38,7 +38,7 @@
 
 ### 📌 Featured Projects
 
-- 🛍️ **[Nova – Jewelry E-Commerce](#)**  
+- 🛍️ **[Nova – Jewellery E-Commerce](#)**  
   React.js-based product site with wishlist, dynamic routes, and a beautiful UI.
 
 - 🌍 **[VOYA – Travel Smart](#)**  
