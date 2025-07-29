@@ -41,7 +41,7 @@
 - 🛍️ **[Nova – Jewellery E-Commerce](https://github.com/ishitaamin/nova-jewellrey-ecommerce)**  
   React.js-based product site with wishlist, dynamic routes, and a beautiful UI.
 
-- 🌍 **[VOYA – Travel Smart](#)**  
+- 🌍 **[VOYA – Travel Smart](https://github.com/ishitaamin/ItineraryManager)**  
   Android app with Firebase & Google Maps API to manage group travel, documents & expenses.
 
 - 🍕 **[PizzaSalesIQ – Big Data Inventory Forecasting](https://github.com/ishitaamin/pizzaIQ-sales)**  
