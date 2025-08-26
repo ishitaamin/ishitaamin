@@ -10,7 +10,6 @@
 ### 💡 About Me
 
 - 🎓 I'm B.Tech Computer Science & Engineering student at **Navrachana University**
-- 💻 Currently working as a **Web Developer Intern at Novuz Ark**
 - 🚀 I’m building projects in **React.js**, **Firebase**, **Streamlit**, and **Android Studio**
 - 📱 Passionate about blending **Web**, **Mobile**, and **Cloud technologies** to build impactful applications
 - 🧠 Currently learning about **AI + Prompt Engineering**, **NLP with AWS**, and **Cross-platform App Development**
